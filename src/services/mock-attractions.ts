@@ -1,8 +1,8 @@
 export let ATTRACTIONS = [
   {
     id: 1,
-    name: "Hoan Kiem Lake",
-    address: "Pho Le Thai To, Hanoi Vietnam",
+    name: "โครงการพระราชประสงค์หุบกะพง",
+    address: " หมู่ที่ 8  ต.เขาใหญ่   อ.ชะอำ   เนื้อที่โครงการ 12,500  ไร่",
     location: {
       lat: 21.030746,
       lon: 105.811913,
@@ -78,8 +78,9 @@ export let ATTRACTIONS = [
   },
   {
     id: 2,
-    name: "Hanoi Old Quarter",
-    address: "Hanoi, Vietnam",
+    name: "    โครงการตามพระราชประสงค์ดอนขุนห้วย",
+    address: "พื้นที่โครงการ  รวม  3,990  ไร่  3 งาน  83  ตารางวา   แบ่งเป็น  2  พื้นที่  บริเวณหมู่ที่  5
+    ต.ดอนขุนห้วย  อ.ชะอำ   และพื้นที่บริเวณ  หมู่ที่  5  และ 6  ต.ท่าคอย  อ.ท่ายาง   จ.เพชรบุรี",
     location: {
       lat: 21.030446,
       lon: 105.811813,
@@ -118,7 +119,7 @@ export let ATTRACTIONS = [
   },
   {
     id: 3,
-    name: "One Pillar Pagoda",
+    name: " โครงการพัฒนาที่ดินหนองพลับ – กลัดหลวง",
     address: "Pho Ong Ich Kiem, Hanoi Vietnam",
     location: {
       lat: 21.0302246,
